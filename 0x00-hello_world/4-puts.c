@@ -1,29 +1,14 @@
-nclude <stdio.h>
-
-
-
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Description: A C program that prints with put function
- *
- *     *
- *
- *      * Return: Always 0 (Success)
- *
- *      */
-
-
-
-int main(void)
-
-{
-
-		puts("\"Programming is like building a multilingual puzzle");
-
-			return (0);
-
-}
+1 #include <stdio.h>
+2
+3 /**
+4  * main - Entry point
+5  *
+6  * Return: Always 0 (Win)
+7  */
+8 int main(void)
+9 {
+10 
+11     	  puts("\"Programming is like building a multilingual puzzle");
+12        return (0);
+13
+14 }
