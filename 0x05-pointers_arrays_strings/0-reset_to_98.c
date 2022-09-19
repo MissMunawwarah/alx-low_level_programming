@@ -1,6 +1,6 @@
 /**
- * reset_to_98.c - this takes a pointer to an int parameter
- * and updates the value it points to 98
+ * reset_to_98 - this takes a pointer to an int parameter
+ *               and updates the value it points to 98
  *
  * @n: int parameter
  * Return: 0
