@@ -1,5 +1,5 @@
 /**
- * this file - this takes a pointer to an int parameter
+ * 0-reset_to_98.c - this takes a pointer to an int parameter
  * and updates the value it points to 98
  *
  * @n: int parameter
