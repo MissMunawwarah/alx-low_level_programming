@@ -2,17 +2,10 @@
 
 /**
  * rot13 - encodes a string using rot13
-<<<<<<< HEAD
- * @s: string to encode
- *
- * Return: address of s
- */
-=======
  * @s: string to encode 
  *
  * Return: address of s
 */
->>>>>>> 24bea0dd578e976f6a804a4d50271476d4a25228
 
 char *rot13(char *s)
 {
