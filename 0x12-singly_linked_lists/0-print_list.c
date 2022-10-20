@@ -4,6 +4,7 @@
  * @h: param list
  * Return: struct
  */
+
 size_t print_list(const list_t *h)
 {
 	size_t nodelen;
